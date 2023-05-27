@@ -1,0 +1,29 @@
+
+///Miktar eklemek için kullandığım card
+Card(
+child: TextField(
+controller: _moneycontroller,
+decoration: const InputDecoration(
+labelText: "Miktar",
+labelStyle: TextStyle(color: Colors.black),
+icon: Icon(
+Icons.attach_money,
+color: Colors.black,
+),
+fillColor: Colors.black),
+cursorColor: Colors.grey,
+style: TextStyle(color: Colors.black),
+),
+),
+
+//DATEPİCKER
+
+
+
+
+////MİKTARDA EKLEME YADA ÇIKARMA İŞLEMİ
+
+
+
+
+
